@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <launch>
     <!-- Posix SITL MAVROS integration tests -->
-    <!-- Test a mission -->
+    <!-- Test a powerfull mission -->
     <arg name="est" default="ekf2"/>
     <arg name="gui" default="false"/>
     <arg name="interactive" default="false"/>
